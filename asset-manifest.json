@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/constructionguidance/static/css/main.03b82888.chunk.css",
+    "main.js": "/constructionguidance/static/js/main.b52baf99.chunk.js",
+    "main.js.map": "/constructionguidance/static/js/main.b52baf99.chunk.js.map",
+    "runtime-main.js": "/constructionguidance/static/js/runtime-main.f7078062.js",
+    "runtime-main.js.map": "/constructionguidance/static/js/runtime-main.f7078062.js.map",
+    "static/css/2.0624914a.chunk.css": "/constructionguidance/static/css/2.0624914a.chunk.css",
+    "static/js/2.3847763b.chunk.js": "/constructionguidance/static/js/2.3847763b.chunk.js",
+    "static/js/2.3847763b.chunk.js.map": "/constructionguidance/static/js/2.3847763b.chunk.js.map",
+    "index.html": "/constructionguidance/index.html",
+    "precache-manifest.1a7498776e295c7378f23a7d7b9eb7a9.js": "/constructionguidance/precache-manifest.1a7498776e295c7378f23a7d7b9eb7a9.js",
+    "service-worker.js": "/constructionguidance/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/constructionguidance/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.03b82888.chunk.css.map": "/constructionguidance/static/css/main.03b82888.chunk.css.map"
+  }
+}
